@@ -1,6 +1,6 @@
 # Cyclistic Bike-Share Data Analysis (2019) 📊🚴‍♂️
 
-![Cyclistic Power BI Dashboard](bike_trips_dashboard.png)
+![Cyclistic Power BI Dashboard](bike_trips_dashboard_2019.png)
 
 ## 📝 Project Overview
 This is an independent data analytics project where I analyzed public bike-share data from Chicago to practice and showcase my skills.
